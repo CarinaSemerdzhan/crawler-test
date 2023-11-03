@@ -1,0 +1,21 @@
+{
+  "name": "crawler-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^1.4.0",
+    "css": "^3.0.0",
+    "https": "^1.0.0",
+    "image-size": "^1.0.2",
+    "jsdom": "^22.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}
